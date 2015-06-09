@@ -1,10 +1,11 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
 ---
+
 Tina Wilkerson
 
 ## Loading and preprocessing the data
-```{r}
+```{r echo=TRUE}
 library(plyr)
 library(ggplot2)
 library(lattice)
